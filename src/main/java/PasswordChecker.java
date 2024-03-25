@@ -2,6 +2,7 @@
 * 1) is not empty
 * 2) has at least 8 characters
 * 3) has at least 1 letter and 1 digit */
+
 public class PasswordChecker {
     String password;
 
